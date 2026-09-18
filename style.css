@@ -1,0 +1,26 @@
+.profile-my {
+    margin-top: 20px;
+    margin-right: 40px;
+    text-align: center;
+}
+*{
+    box-sizing: border-box;
+}
+.profile-card h1 {
+    text-align: center; 
+}
+.profile-card {
+    padding: 12px;
+}
+.profile-card {
+    max-width: 520px;
+    margin: 40px auto;
+    border: 1px solid #000;
+    border-radius: 18px;
+}
+.profile-card_link:hover {
+    text-decoration: none;
+}
+.profile-card_link:active {
+    transform: translate(1px);
+}
