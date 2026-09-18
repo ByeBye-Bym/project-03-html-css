@@ -15,7 +15,7 @@
 .profile-card {
     max-width: 520px;
     margin: 40px auto;
-    border: 1px solid #000;
+    border: 1px solid #FFF;
     border-radius: 18px;
 }
 .profile-card_link:hover {
